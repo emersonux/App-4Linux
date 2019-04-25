@@ -17,4 +17,4 @@ R_jenkins/blueprint.py
 R_gitlab/blueprint.py (token)
 
 
-Obs: Senhas substituidas por "<ADICIONAR>""
+Obs: Senhas substituidas por ADICIONAR
